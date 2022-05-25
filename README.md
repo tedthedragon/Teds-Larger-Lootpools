@@ -19,4 +19,4 @@ A loot pool addon for "Hideous Destructor" and Ugly as Sin to add more items, ma
 - More mod support to cover most things on Dastrukar's HD Addons Website.
 
 ## Recommended Mods
-    This mod was made for personal load order use, though it's recommended to use all of Ugly as Sin, Peppergrinder, Goonpack, HDest-Re-Enforcements and the Field Assembly Kit with it. The only mod that's necessary is Ugly as Sin's looting and core modules.
+This mod was made for personal load order use, though it's recommended to use all of Ugly as Sin, Peppergrinder, Goonpack, HDest-Re-Enforcements and the Field Assembly Kit with it. The only mod that's necessary is Ugly as Sin's looting and core modules.

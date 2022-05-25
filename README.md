@@ -1,8 +1,10 @@
 # Teds Larger Lootpools
 A loot pool addon for Hideous Destructor and Ugly as Sin to add various items to Ugly as Sin's looting feature.
 
-Hideous Destructor: https://codeberg.org/mc776/HideousDestructor
-Ugly as Sin: https://github.com/caligari87/Ugly-as-Sin
+### Requirements:
+
+- Hideous Destructor: https://codeberg.org/mc776/HideousDestructor
+- Ugly as Sin: https://github.com/caligari87/Ugly-as-Sin
 
 ![Thumbnail](https://github.com/tedthedragon/Teds-Larger-Lootpools/blob/main/Teds-Larger-Lootpools.png)
 

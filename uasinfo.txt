@@ -52,3 +52,6 @@ Looting:CabalCultist: ShellBoxPickup*2, ShellPickup*4, HDFragGrenadeAmmo*2, HDFr
 Looting:CabalFanatic: HD9mmMag30*3, HDGuillotine, HDFragGrenadeAmmo*2, HDFragGrenadeRoller*3, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*3, UaS_Flare*2, UaS_Glowstick*2, MercenaryBucks*2
 Looting:CabalAcolyte: HD355BoxPickup*2, HD9mmBoxPickup*3, HDFragGrenadeAmmo*2, HDFragGrenadeRoller*3, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*4, UaS_Flare*2, UaS_Glowstick*2, MercenaryBucks*2
 Looting:CabalZealot: HDBattery*8, HDCellPackEmpty*5, HDFragGrenadeAmmo*2, HDFragGrenadeRoller*3 Putto, Yokai, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*4, UaS_Flare*2, UaS_Glowstick*2, MercenaryBucks*2
+
+// Experimental pools, no idea if these even work due to how Bryan's mod works.
+ShotgunHumanoidBase: ShellBoxPickup*100

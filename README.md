@@ -1,6 +1,8 @@
 # Teds Larger Lootpools
 A loot pool addon for Hideous Destructor and Ugly as Sin to add various items to Ugly as Sin's looting feature.
 
+# MIGRATED TO https://github.com/Gay-Snake-Squad/Teds-Larger-Lootpools THIS REPO WILL GET NO CHANGES.
+
 ### Requirements:
 
 - Hideous Destructor: https://codeberg.org/mc776/HideousDestructor
